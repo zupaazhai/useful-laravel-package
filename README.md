@@ -1,6 +1,7 @@
 # useful-laravel-package
 
 ## Static Render
+- Cleaver [https://usecleaver.com/](https://usecleaver.com/)
 - Flatten [https://github.com/Anahkiasen/flatten](https://github.com/Anahkiasen/flatten)
 
 ## Utilities
