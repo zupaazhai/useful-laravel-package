@@ -10,6 +10,9 @@
 ## PDF
 - WeasyPrint (Laravel wrapper) [https://gitlab.com/mikerockett/weasyprint](https://gitlab.com/mikerockett/weasyprint)
 
+## Performance
+- Packer (Pack/combine js and css) [https://github.com/eusonlito/laravel-Packer]
+
 ## Utilities
 - App Installer, App Initial [https://github.com/mad-web/laravel-initializer](https://github.com/mad-web/laravel-initializer)
 - Underscore.php [https://anahkiasen.github.io/underscore-php/#readme](https://anahkiasen.github.io/underscore-php/#readme)
